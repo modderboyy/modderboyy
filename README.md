@@ -1,118 +1,111 @@
-[<!-- Banner -->
-<h1 align="center">🚀 Modderboy — Developer, Creator, Innovator</h1>
+<!-- HEADER -->
+<h1 align="center">🔥 Modderboy — Developer & System Architect</h1>
 <p align="center">
-  <b>Building ModderOS • ModderUI • ModderLang • Super Apps • AI Systems</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ModderOS-v4.0-blue?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/ModderUI-3.0-purple?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/ModderLang-1.0-green?style=for-the-badge&logo=javascript" />
+  <i>Building Web OS, UI engines, developer tools, and futuristic applications.</i>
 </p>
 
 ---
 
-# 🌌 About Me
-Hi, I’m **Modderboy**, a full-stack developer & system architect.  
-I create **super apps, UI frameworks, programming languages, OS-like UI systems, AI-based tools**,  
-and build everything around my own Modder ecosystem.
-
-💠 **Current Projects:**
-- 🖥 **ModderOS** — Web-based OS with native UI & system engine  
-- 🎨 **ModderUI** — Liquid Glass CSS + JS UI Framework  
-- ⚙️ **ModderOS Core (main.js)** for desktop-like interactions  
-- 🧠 **ModderLang** — My own language  
-- 📱 Mini Superapps, Dashboards, Identity Systems  
-
----
-
-# 🧠 Skills
-### 🔹 Languages  
-`Python` • `Django` • `JavaScript` • `Node`  
-`C++` • `Dart/Flutter` • `HTML/CSS`  
-`SQL` • `Supabase`  
-
-### 🔹 Technologies & Frameworks  
-`ModderUI` • `ModderOS Core`  
-`Flutter` • `Next.js` • `React`  
-`Django` • `Supabase` • `PostgreSQL`  
-
-### 🔹 Specialties  
-- UI/UX Systems (macOS/iOS style)  
-- Web OS Design  
-- API Architecture  
-- Custom runtimes  
-- Developer tools & SDKs  
-- Multi-app ecosystems  
-
----
-
-# 🏆 GitHub Stats
-
+<!-- TROPHY -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=modderboyy&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modderboyy&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=modderboyy&theme=tokyonight&no-frame=true&column=6" />
 </p>
 
 ---
 
-# 💾 My Ecosystem
+# 👤 About Me
+Hi, I’m **Modderboy**, a young but ambitious full-stack developer.  
+I create **UI frameworks, mini-apps, dashboards, system runtimes, AI-powered tools**,  
+and experiment with OS-like web systems.
 
-### 🖥 **ModderOS**
-Custom WebOS with:
-- Top bar, sidebar
-- Desktop-like context menus
-- App engine (toggle, modals, core logic)
-- Fully themed UI
+I focus on building **clean, fast, futuristic interfaces and developer ecosystems.**
 
-### 🎨 **ModderUI (CSS Framework)**
-- Liquid Glass  
-- Deep Blue Gradient  
-- macOS dark-mode visuals  
-- 3D interactive cards  
-- Calendar, floating dock, contexts  
-
-### ⚙️ **ModderOS Core (main.js)**
-- Auto menu injection  
-- Smart context menu  
-- Edit menu  
-- Modal engine  
-- Safe null-checked system  
-- Clock, password toggle, CSRF support  
+### 🔥 What I Work On:
+- Web OS systems (ModderOS, ModderRuntime)
+- Elegant UI frameworks (CSS + JS)
+- Full-stack apps with Django, Next.js
+- AI-assisted utilities & tools
+- Server infrastructure & RDP setups
 
 ---
 
-# 📡 Connect With Me
+# 💼 Tech Stack
+
+<!-- SKILL CARDS -->
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,html,css,nextjs,react,flutter,firebase,linux,git,github,vercel,nginx,docker,nodejs,npm" />
+
+</p>
+
+### 🧠 I work with:
+- **Django**
+- **Next.js**
+- **JavaScript**
+- **Python**
+- **Flask**
+- **HTML / CSS**
+- **Flutter**
+- **Flet**
+- **NPM ecosystem**
+- **Git & GitHub**
+- **RDP & Server Configuration**
+- **AI tools / automation**
+- **UI/UX Design principles**
+
+---
+
+# 🛠 My Engineering Focus
+### ✔ UI Frameworks  
+Building macOS-style Liquid Glass UI with modern CSS & JS.
+
+### ✔ System Engines  
+JS runtimes that mimic OS behaviors (context menu, modals, top bar, auto-inject systems).
+
+### ✔ Servers  
+RDP installation, Linux configs, deploying web apps anywhere.
+
+### ✔ Full-Stack Development  
+From Python backend to Next.js frontend — fully integrated systems.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://t.me/modderboy"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/modderboyy"><img src="https://img.shields.io/badge/GitHub-Modderboy-black?style=for-the-badge&logo=github" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=modderboyy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modderboyy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🧩 Featured Repositories
-
-### 🔥 ModderUI  
-Premium UI Framework  
-👉 `modderboyy/modderui`
-
-### ⚙️ ModderOS Core  
-Desktop-like JS engine  
-👉 `modderboyy/modderos-core`
-
-### 🖥 ModderOS Runtime  
-App system + UI shell  
-👉 `modderboyy/modderos-runtime`
+# 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=modderboyy&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🌟 Fun Quote
-> “I don’t build apps. I build worlds.” — Modderboy
+# 📈 Contribution Graph
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=modderboyy&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 🧊 Support
-If you like my ecosystem, ⭐ star the repos — it helps a lot!
+# 🧊 My Philosophy
+> _“I don’t just code apps. I design ecosystems.”_
 
-](https://github-profile-trophy.vercel.app/?username=modderboyy&theme=tokyonight&no-frame=true&column=6)
+---
+
+# 📡 Contact
+<p align="center">
+  <a href="https://t.me/modderboy"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="https://github.com/modderboyy"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+ ⭐ If you enjoy my projects, consider starring them — it really motivates me!
+</p>

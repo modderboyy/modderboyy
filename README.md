@@ -1,4 +1,4 @@
-<!-- Banner -->
+[<!-- Banner -->
 <h1 align="center">🚀 Modderboy — Developer, Creator, Innovator</h1>
 <p align="center">
   <b>Building ModderOS • ModderUI • ModderLang • Super Apps • AI Systems</b>
@@ -115,3 +115,4 @@ App system + UI shell
 # 🧊 Support
 If you like my ecosystem, ⭐ star the repos — it helps a lot!
 
+](https://github-profile-trophy.vercel.app/?username=modderboyy&theme=tokyonight&no-frame=true&column=6)

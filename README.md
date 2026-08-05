@@ -28,6 +28,7 @@
   <a href="https://github.com/modderboyy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://t.me/modderfx"><img src="https://img.shields.io/badge/FX%20Channel-5A5AFF.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="FX Channel" /></a>
   <a href="https://modderboy.uz"><img src="https://img.shields.io/badge/Portfolio-00C8FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.uflow.uz"><img src="https://img.shields.io/badge/UFlow-AI%20%26%20Software%20Solutions-34C759.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="UFlow — AI and Software Solutions" /></a>
 </p>
 
 ---
